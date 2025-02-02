@@ -1,0 +1,137 @@
+[
+  {
+    "name": "BottleArt1",
+    "quantity": 20,
+    "price": 35.00,
+    "image": "BottleArt/bottleart1.jpeg",
+    "status": "Available",
+    "category": "Bottle Art",
+    "offer": 10
+  },
+  {
+    "name": "BottleArt2",
+    "quantity": 15,
+    "price": 40.00,
+    "image": "BottleArt/bottleart2.jpeg",
+    "status": "Available",
+    "category": "Bottle Art",
+    "offer": 12
+  },
+  {
+    "name": "BottleArt3",
+    "quantity": 10,
+    "price": 50.00,
+    "image": "BottleArt/bottleart3.jpeg",
+    "status": "Not Available",
+    "category": "Bottle Art",
+    "offer": 8
+  },
+  {
+    "name": "BottleArt4",
+    "quantity": 25,
+    "price": 30.00,
+    "image": "BottleArt/bottleart4.jpeg",
+    "status": "Available",
+    "category": "Bottle Art",
+    "offer": 5
+  },
+  {
+    "name": "BottleArt5",
+    "quantity": 12,
+    "price": 60.00,
+    "image": "BottleArt/bottleart5.jpeg",
+    "status": "Available",
+    "category": "Bottle Art",
+    "offer": 15
+  },
+  {
+    "name": "BottleArt6",
+    "quantity": 18,
+    "price": 45.00,
+    "image": "BottleArt/bottleart6.jpeg",
+    "status": "Not Available",
+    "category": "Bottle Art",
+    "offer": 10
+  },
+  {
+    "name": "BottleArt7",
+    "quantity": 22,
+    "price": 38.00,
+    "image": "BottleArt/bottleart7.jpeg",
+    "status": "Available",
+    "category": "Bottle Art",
+    "offer": 7
+  },
+  {
+    "name": "BottleArt8",
+    "quantity": 8,
+    "price": 70.00,
+    "image": "BottleArt/bottleart8.jpeg",
+    "status": "Available",
+    "category": "Bottle Art",
+    "offer": 20
+  },
+  {
+    "name": "BottleArt9",
+    "quantity": 30,
+    "price": 25.00,
+    "image": "BottleArt/bottleart9.jpeg",
+    "status": "Available",
+    "category": "Bottle Art",
+    "offer": 5
+  },
+  {
+    "name": "BottleArt10",
+    "quantity": 16,
+    "price": 55.00,
+    "image": "BottleArt/bottleart10.jpeg",
+    "status": "Available",
+    "category": "Bottle Art",
+    "offer": 18
+  },
+  {
+    "name": "BottleArt11",
+    "quantity": 20,
+    "price": 40.00,
+    "image": "BottleArt/bottleart11.jpeg",
+    "status": "Available",
+    "category": "Bottle Art",
+    "offer": 12
+  },
+  {
+    "name": "BottleArt12",
+    "quantity": 28,
+    "price": 32.00,
+    "image": "BottleArt/bottleart12.jpeg",
+    "status": "Available",
+    "category": "Bottle Art",
+    "offer": 6
+  },
+  {
+    "name": "BottleArt13",
+    "quantity": 14,
+    "price": 48.00,
+    "image": "BottleArt/bottleart13.jpeg",
+    "status": "Not Available",
+    "category": "Bottle Art",
+    "offer": 10
+  },
+  {
+    "name": "BottleArt14",
+    "quantity": 18,
+    "price": 42.00,
+    "image": "BottleArt/bottleart14.jpeg",
+    "status": "Available",
+    "category": "Bottle Art",
+    "offer": 7
+  },
+  {
+    "name": "BottleArt15",
+    "quantity": 10,
+    "price": 65.00,
+    "image": "BottleArt/bottleart15.jpeg",
+    "status": "Available",
+    "category": "Bottle Art",
+    "offer": 15
+  }
+]

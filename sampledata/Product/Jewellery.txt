@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Jewellery1",
+    "quantity": 25,
+    "price": 30.00,
+    "image": "Jewellery/jewellery1.jpeg",
+    "status": "Available",
+    "category": "Jewellery",
+    "offer": 10
+  },
+  {
+    "name": "Jewellery2",
+    "quantity": 35,
+    "price": 50.00,
+    "image": "Jewellery/jewellery2.jpeg",
+    "status": "Available",
+    "category": "Jewellery",
+    "offer": 5
+  },
+  {
+    "name": "Jewellery3",
+    "quantity": 20,
+    "price": 75.00,
+    "image": "Jewellery/jewellery3.jpeg",
+    "status": "Not Available",
+    "category": "Jewellery",
+    "offer": 0
+  },
+  {
+    "name": "Jewellery4",
+    "quantity": 30,
+    "price": 120.00,
+    "image": "Jewellery/jewellery4.jpeg",
+    "status": "Available",
+    "category": "Jewellery",
+    "offer": 15
+  },
+  {
+    "name": "Jewellery5",
+    "quantity": 18,
+    "price": 85.00,
+    "image": "Jewellery/jewellery5.jpeg",
+    "status": "Available",
+    "category": "Jewellery",
+    "offer": 10
+  },
+  {
+    "name": "Jewellery6",
+    "quantity": 40,
+    "price": 60.00,
+    "image": "Jewellery/jewellery6.jpeg",
+    "status": "Not Available",
+    "category": "Jewellery",
+    "offer": 20
+  },
+  {
+    "name": "Jewellery7",
+    "quantity": 55,
+    "price": 100.00,
+    "image": "Jewellery/jewellery7.jpeg",
+    "status": "Available",
+    "category": "Jewellery",
+    "offer": 5
+  },
+  {
+    "name": "Jewellery8",
+    "quantity": 40,
+    "price": 65.00,
+    "image": "Jewellery/jewellery8.jpeg",
+    "status": "Available",
+    "category": "Jewellery",
+    "offer": 8
+  },
+  {
+    "name": "Jewellery9",
+    "quantity": 22,
+    "price": 95.00,
+    "image": "Jewellery/jewellery9.jpeg",
+    "status": "Not Available",
+    "category": "Jewellery",
+    "offer": 0
+  },
+  {
+    "name": "Jewellery10",
+    "quantity": 50,
+    "price": 55.00,
+    "image": "Jewellery/jewellery10.jpeg",
+    "status": "Available",
+    "category": "Jewellery",
+    "offer": 12
+  },
+  {
+    "name": "Jewellery11",
+    "quantity": 30,
+    "price": 90.00,
+    "image": "Jewellery/jewellery11.jpeg",
+    "status": "Available",
+    "category": "Jewellery",
+    "offer": 7
+  },
+  {
+    "name": "Jewellery12",
+    "quantity": 20,
+    "price": 110.00,
+    "image": "Jewellery/jewellery12.jpeg",
+    "status": "Not Available",
+    "category": "Jewellery",
+    "offer": 25
+  },
+  {
+    "name": "Jewellery13",
+    "quantity": 60,
+    "price": 75.00,
+    "image": "Jewellery/jewellery13.jpeg",
+    "status": "Available",
+    "category": "Jewellery",
+    "offer": 10
+  },
+  {
+    "name": "Jewellery14",
+    "quantity": 35,
+    "price": 45.00,
+    "image": "Jewellery/jewellery14.jpeg",
+    "status": "Available",
+    "category": "Jewellery",
+    "offer": 18
+  },
+  {
+    "name": "Jewellery15",
+    "quantity": 45,
+    "price": 130.00,
+    "image": "Jewellery/jewellery15.jpeg",
+    "status": "Not Available",
+    "category": "Jewellery",
+    "offer": 20
+  },
+  {
+    "name": "Jewellery16",
+    "quantity": 25,
+    "price": 100.00,
+    "image": "Jewellery/jewellery16.jpeg",
+    "status": "Available",
+    "category": "Jewellery",
+    "offer": 5
+  },
+  {
+    "name": "Jewellery17",
+    "quantity": 10,
+    "price": 140.00,
+    "image": "Jewellery/jewellery17.jpeg",
+    "status": "Available",
+    "category": "Jewellery",
+    "offer": 10
+  },
+  {
+    "name": "Jewellery18",
+    "quantity": 30,
+    "price": 50.00,
+    "image": "Jewellery/jewellery18.jpeg",
+    "status": "Available",
+    "category": "Jewellery",
+    "offer": 15
+  }
+]

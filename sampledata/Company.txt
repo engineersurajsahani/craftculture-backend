@@ -1,0 +1,52 @@
+[
+  {
+    "name": "WritePro Solutions",
+    "description": "A content creation and editing company that provides professional writing services for businesses and individuals.",
+    "image": "https://example.com/images/writepro-solutions.jpg"
+  },
+  {
+    "name": "EduMaster Online",
+    "description": "An online tutoring platform connecting students with professional educators worldwide.",
+    "image": "https://example.com/images/edumaster-online.jpg"
+  },
+  {
+    "name": "CallConnect Services",
+    "description": "Specializes in providing customer support and call center outsourcing solutions for global businesses.",
+    "image": "https://example.com/images/callconnect-services.jpg"
+  },
+  {
+    "name": "DataEase Solutions",
+    "description": "Offers data entry, processing, and management services for businesses of all sizes.",
+    "image": "https://example.com/images/dataease-solutions.jpg"
+  },
+  {
+    "name": "CreativeQuill Agency",
+    "description": "A boutique content agency focused on providing high-quality blog posts, articles, and creative writing.",
+    "image": "https://example.com/images/creativequill-agency.jpg"
+  },
+  {
+    "name": "TutorHive",
+    "description": "An online educational platform that connects students with subject matter experts for personalized learning.",
+    "image": "https://example.com/images/tutorhive.jpg"
+  },
+  {
+    "name": "VoicePro Call Center",
+    "description": "Providing inbound and outbound call services to enhance customer satisfaction and retention.",
+    "image": "https://example.com/images/voicepro-call-center.jpg"
+  },
+  {
+    "name": "DataClerk Solutions",
+    "description": "Offers efficient and accurate data entry services to streamline your business operations.",
+    "image": "https://example.com/images/dataclerk-solutions.jpg"
+  },
+  {
+    "name": "EditEase Services",
+    "description": "A team of professional editors dedicated to refining and proofreading your content to perfection.",
+    "image": "https://example.com/images/editease-services.jpg"
+  },
+  {
+    "name": "LearnSphere Academy",
+    "description": "A virtual academy offering skill-based courses and live tutoring sessions for students of all ages.",
+    "image": "https://example.com/images/learnsphere-academy.jpg"
+  }
+]

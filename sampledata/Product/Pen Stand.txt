@@ -1,0 +1,74 @@
+[
+  {
+    "name": "PenStand1",
+    "quantity": 25,
+    "price": 15.00,
+    "image": "PenStand/penstand1.jpeg",
+    "status": "Available",
+    "category": "Pen Stand",
+    "offer": 5
+  },
+  {
+    "name": "PenStand2",
+    "quantity": 30,
+    "price": 18.00,
+    "image": "PenStand/penstand2.jpeg",
+    "status": "Not Available",
+    "category": "Pen Stand",
+    "offer": 10
+  },
+  {
+    "name": "PenStand3",
+    "quantity": 20,
+    "price": 20.00,
+    "image": "PenStand/penstand3.jpeg",
+    "status": "Available",
+    "category": "Pen Stand",
+    "offer": 8
+  },
+  {
+    "name": "PenStand4",
+    "quantity": 15,
+    "price": 25.00,
+    "image": "PenStand/penstand4.jpeg",
+    "status": "Available",
+    "category": "Pen Stand",
+    "offer": 12
+  },
+  {
+    "name": "PenStand5",
+    "quantity": 40,
+    "price": 12.00,
+    "image": "PenStand/penstand5.jpeg",
+    "status": "Available",
+    "category": "Pen Stand",
+    "offer": 6
+  },
+  {
+    "name": "PenStand6",
+    "quantity": 35,
+    "price": 22.00,
+    "image": "PenStand/penstand6.jpeg",
+    "status": "Not Available",
+    "category": "Pen Stand",
+    "offer": 15
+  },
+  {
+    "name": "PenStand7",
+    "quantity": 45,
+    "price": 17.00,
+    "image": "PenStand/penstand7.jpeg",
+    "status": "Available",
+    "category": "Pen Stand",
+    "offer": 7
+  },
+  {
+    "name": "PenStand8",
+    "quantity": 10,
+    "price": 30.00,
+    "image": "PenStand/penstand8.jpeg",
+    "status": "Available",
+    "category": "Pen Stand",
+    "offer": 5
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Diya1",
+    "quantity": 20,
+    "price": 15.00,
+    "image": "Diyas/diya1.jpeg",
+    "status": "Available",
+    "category": "Diyas",
+    "offer": 10
+  },
+  {
+    "name": "Diya2",
+    "quantity": 15,
+    "price": 20.00,
+    "image": "Diyas/diya2.jpeg",
+    "status": "Available",
+    "category": "Diyas",
+    "offer": 5
+  },
+  {
+    "name": "Diya3",
+    "quantity": 30,
+    "price": 18.50,
+    "image": "Diyas/diya3.jpeg",
+    "status": "Not Available",
+    "category": "Diyas",
+    "offer": 0
+  },
+  {
+    "name": "Diya4",
+    "quantity": 50,
+    "price": 12.00,
+    "image": "Diyas/diya4.jpeg",
+    "status": "Available",
+    "category": "Diyas",
+    "offer": 15
+  },
+  {
+    "name": "Diya5",
+    "quantity": 10,
+    "price": 25.00,
+    "image": "Diyas/diya5.jpeg",
+    "status": "Available",
+    "category": "Diyas",
+    "offer": 8
+  },
+  {
+    "name": "Diya6",
+    "quantity": 12,
+    "price": 30.00,
+    "image": "Diyas/diya6.jpeg",
+    "status": "Not Available",
+    "category": "Diyas",
+    "offer": 12
+  },
+  {
+    "name": "Diya7",
+    "quantity": 25,
+    "price": 19.99,
+    "image": "Diyas/diya7.jpeg",
+    "status": "Available",
+    "category": "Diyas",
+    "offer": 18
+  },
+  {
+    "name": "Diya8",
+    "quantity": 5,
+    "price": 22.00,
+    "image": "Diyas/diya8.jpeg",
+    "status": "Not Available",
+    "category": "Diyas",
+    "offer": 20
+  },
+  {
+    "name": "Diya9",
+    "quantity": 35,
+    "price": 17.00,
+    "image": "Diyas/diya9.jpeg",
+    "status": "Available",
+    "category": "Diyas",
+    "offer": 7
+  },
+  {
+    "name": "Diya10",
+    "quantity": 40,
+    "price": 13.50,
+    "image": "Diyas/diya10.jpeg",
+    "status": "Available",
+    "category": "Diyas",
+    "offer": 5
+  }
+]

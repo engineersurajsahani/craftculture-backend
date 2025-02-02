@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Bag1",
+    "quantity": 30,
+    "price": 50.00,
+    "image": "Bag/bag1.jpeg",
+    "status": "Available",
+    "category": "Bag",
+    "offer": 10
+  },
+  {
+    "name": "Bag2",
+    "quantity": 25,
+    "price": 45.00,
+    "image": "Bag/bag2.jpeg",
+    "status": "Available",
+    "category": "Bag",
+    "offer": 5
+  },
+  {
+    "name": "Bag3",
+    "quantity": 40,
+    "price": 55.00,
+    "image": "Bag/bag3.jpeg",
+    "status": "Not Available",
+    "category": "Bag",
+    "offer": 0
+  },
+  {
+    "name": "Bag4",
+    "quantity": 20,
+    "price": 60.00,
+    "image": "Bag/bag4.jpeg",
+    "status": "Available",
+    "category": "Bag",
+    "offer": 15
+  },
+  {
+    "name": "Bag5",
+    "quantity": 50,
+    "price": 35.00,
+    "image": "Bag/bag5.jpeg",
+    "status": "Available",
+    "category": "Bag",
+    "offer": 8
+  },
+  {
+    "name": "Bag6",
+    "quantity": 35,
+    "price": 65.00,
+    "image": "Bag/bag6.jpeg",
+    "status": "Not Available",
+    "category": "Bag",
+    "offer": 12
+  },
+  {
+    "name": "Bag7",
+    "quantity": 60,
+    "price": 40.00,
+    "image": "Bag/bag7.jpeg",
+    "status": "Available",
+    "category": "Bag",
+    "offer": 18
+  },
+  {
+    "name": "Bag8",
+    "quantity": 15,
+    "price": 80.00,
+    "image": "Bag/bag8.jpeg",
+    "status": "Available",
+    "category": "Bag",
+    "offer": 20
+  },
+  {
+    "name": "Bag9",
+    "quantity": 10,
+    "price": 90.00,
+    "image": "Bag/bag9.jpeg",
+    "status": "Not Available",
+    "category": "Bag",
+    "offer": 25
+  },
+  {
+    "name": "Bag10",
+    "quantity": 45,
+    "price": 75.00,
+    "image": "Bag/bag10.jpeg",
+    "status": "Available",
+    "category": "Bag",
+    "offer": 10
+  },
+  {
+    "name": "Bag11",
+    "quantity": 30,
+    "price": 85.00,
+    "image": "Bag/bag11.jpeg",
+    "status": "Available",
+    "category": "Bag",
+    "offer": 5
+  },
+  {
+    "name": "Bag12",
+    "quantity": 50,
+    "price": 100.00,
+    "image": "Bag/bag12.jpeg",
+    "status": "Available",
+    "category": "Bag",
+    "offer": 15
+  },
+  {
+    "name": "Bag13",
+    "quantity": 70,
+    "price": 60.00,
+    "image": "Bag/bag13.jpeg",
+    "status": "Available",
+    "category": "Bag",
+    "offer": 7
+  },
+  {
+    "name": "Bag14",
+    "quantity": 12,
+    "price": 120.00,
+    "image": "Bag/bag14.jpeg",
+    "status": "Not Available",
+    "category": "Bag",
+    "offer": 18
+  },
+  {
+    "name": "Bag15",
+    "quantity": 25,
+    "price": 110.00,
+    "image": "Bag/bag15.jpeg",
+    "status": "Available",
+    "category": "Bag",
+    "offer": 10
+  },
+  {
+    "name": "Bag16",
+    "quantity": 40,
+    "price": 130.00,
+    "image": "Bag/bag16.jpeg",
+    "status": "Available",
+    "category": "Bag",
+    "offer": 5
+  }
+]

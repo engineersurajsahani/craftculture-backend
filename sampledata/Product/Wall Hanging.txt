@@ -1,0 +1,119 @@
+[
+  {
+    "name": "WallHanging1",
+    "quantity": 20,
+    "price": 45.00,
+    "image": "WallHanging/wallhanging1.jpeg",
+    "status": "Available",
+    "category": "Wall Hanging",
+    "offer": 10
+  },
+  {
+    "name": "WallHanging2",
+    "quantity": 30,
+    "price": 60.00,
+    "image": "WallHanging/wallhanging2.jpeg",
+    "status": "Not Available",
+    "category": "Wall Hanging",
+    "offer": 15
+  },
+  {
+    "name": "WallHanging3",
+    "quantity": 25,
+    "price": 80.00,
+    "image": "WallHanging/wallhanging3.jpeg",
+    "status": "Available",
+    "category": "Wall Hanging",
+    "offer": 5
+  },
+  {
+    "name": "WallHanging4",
+    "quantity": 15,
+    "price": 100.00,
+    "image": "WallHanging/wallhanging4.jpeg",
+    "status": "Available",
+    "category": "Wall Hanging",
+    "offer": 20
+  },
+  {
+    "name": "WallHanging5",
+    "quantity": 35,
+    "price": 55.00,
+    "image": "WallHanging/wallhanging5.jpeg",
+    "status": "Not Available",
+    "category": "Wall Hanging",
+    "offer": 8
+  },
+  {
+    "name": "WallHanging6",
+    "quantity": 40,
+    "price": 90.00,
+    "image": "WallHanging/wallhanging6.jpeg",
+    "status": "Available",
+    "category": "Wall Hanging",
+    "offer": 12
+  },
+  {
+    "name": "WallHanging7",
+    "quantity": 50,
+    "price": 70.00,
+    "image": "WallHanging/wallhanging7.jpeg",
+    "status": "Available",
+    "category": "Wall Hanging",
+    "offer": 10
+  },
+  {
+    "name": "WallHanging8",
+    "quantity": 60,
+    "price": 50.00,
+    "image": "WallHanging/wallhanging8.jpeg",
+    "status": "Not Available",
+    "category": "Wall Hanging",
+    "offer": 18
+  },
+  {
+    "name": "WallHanging9",
+    "quantity": 10,
+    "price": 120.00,
+    "image": "WallHanging/wallhanging9.jpeg",
+    "status": "Available",
+    "category": "Wall Hanging",
+    "offer": 15
+  },
+  {
+    "name": "WallHanging10",
+    "quantity": 30,
+    "price": 75.00,
+    "image": "WallHanging/wallhanging10.jpeg",
+    "status": "Not Available",
+    "category": "Wall Hanging",
+    "offer": 10
+  },
+  {
+    "name": "WallHanging11",
+    "quantity": 20,
+    "price": 85.00,
+    "image": "WallHanging/wallhanging11.jpeg",
+    "status": "Available",
+    "category": "Wall Hanging",
+    "offer": 7
+  },
+  {
+    "name": "WallHanging12",
+    "quantity": 40,
+    "price": 95.00,
+    "image": "WallHanging/wallhanging12.jpeg",
+    "status": "Available",
+    "category": "Wall Hanging",
+    "offer": 15
+  },
+  {
+    "name": "WallHanging13",
+    "quantity": 45,
+    "price": 60.00,
+    "image": "WallHanging/wallhanging13.jpeg",
+    "status": "Available",
+    "category": "Wall Hanging",
+    "offer": 10
+  }
+]

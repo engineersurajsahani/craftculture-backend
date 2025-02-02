@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Frame1",
+    "quantity": 15,
+    "price": 120.00,
+    "image": "Frames/frame1.jpeg",
+    "status": "Available",
+    "category": "Frames",
+    "offer": 10
+  },
+  {
+    "name": "Frame2",
+    "quantity": 10,
+    "price": 150.00,
+    "image": "Frames/frame2.jpeg",
+    "status": "Available",
+    "category": "Frames",
+    "offer": 15
+  },
+  {
+    "name": "Frame3",
+    "quantity": 20,
+    "price": 100.00,
+    "image": "Frames/frame3.jpeg",
+    "status": "Not Available",
+    "category": "Frames",
+    "offer": 8
+  },
+  {
+    "name": "Frame4",
+    "quantity": 18,
+    "price": 140.00,
+    "image": "Frames/frame4.jpeg",
+    "status": "Available",
+    "category": "Frames",
+    "offer": 12
+  },
+  {
+    "name": "Frame5",
+    "quantity": 8,
+    "price": 200.00,
+    "image": "Frames/frame5.jpeg",
+    "status": "Available",
+    "category": "Frames",
+    "offer": 20
+  },
+  {
+    "name": "Frame6",
+    "quantity": 25,
+    "price": 90.00,
+    "image": "Frames/frame6.jpeg",
+    "status": "Available",
+    "category": "Frames",
+    "offer": 5
+  },
+  {
+    "name": "Frame7",
+    "quantity": 12,
+    "price": 175.00,
+    "image": "Frames/frame7.jpeg",
+    "status": "Available",
+    "category": "Frames",
+    "offer": 18
+  },
+  {
+    "name": "Frame8",
+    "quantity": 14,
+    "price": 130.00,
+    "image": "Frames/frame8.jpeg",
+    "status": "Not Available",
+    "category": "Frames",
+    "offer": 10
+  },
+  {
+    "name": "Frame9",
+    "quantity": 22,
+    "price": 110.00,
+    "image": "Frames/frame9.jpeg",
+    "status": "Available",
+    "category": "Frames",
+    "offer": 7
+  },
+  {
+    "name": "Frame10",
+    "quantity": 16,
+    "price": 160.00,
+    "image": "Frames/frame10.jpeg",
+    "status": "Available",
+    "category": "Frames",
+    "offer": 12
+  }
+]

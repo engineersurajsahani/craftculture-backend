@@ -1,0 +1,164 @@
+[
+  {
+    "companyId": "6783ac3ca139a23e420fd97d",
+    "title": "Content Writer",
+    "description": "Create engaging and high-quality content for blogs, websites, and social media.",
+    "idealFor": "Creative individuals with strong writing skills.",
+    "skills": ["SEO Writing", "Content Creation", "Editing", "Research"],
+    "jobRole": "Content Creation",
+    "numberOfOpening": 3
+  },
+  {
+    "companyId": "6783ac3ca139a23e420fd97d",
+    "title": "Editor",
+    "description": "Edit and proofread content to ensure grammatical accuracy and quality.",
+    "idealFor": "Individuals with an eye for detail.",
+    "skills": ["Editing", "Proofreading", "Grammar", "Attention to Detail"],
+    "jobRole": "Content Editing",
+    "numberOfOpening": 2
+  },
+  {
+    "companyId": "6783ac3ca139a23e420fd97e",
+    "title": "Online Math Tutor",
+    "description": "Provide one-on-one tutoring sessions to high school students in mathematics.",
+    "idealFor": "Qualified math educators with teaching experience.",
+    "skills": ["Mathematics", "Teaching", "Communication", "Patience"],
+    "jobRole": "Online Tutor",
+    "numberOfOpening": 5
+  },
+  {
+    "companyId": "6783ac3ca139a23e420fd97e",
+    "title": "Science Tutor",
+    "description": "Teach high school science subjects online to students worldwide.",
+    "idealFor": "Science graduates or postgraduates passionate about teaching.",
+    "skills": ["Science Knowledge", "Teaching", "Technology Adaptability"],
+    "jobRole": "Online Educator",
+    "numberOfOpening": 4
+  },
+  {
+    "companyId": "6783ac3ca139a23e420fd97f",
+    "title": "Customer Service Representative",
+    "description": "Handle customer inquiries and resolve issues via phone and email.",
+    "idealFor": "Individuals with strong communication skills.",
+    "skills": ["Communication", "Problem Solving", "Customer Service"],
+    "jobRole": "Call Center Agent",
+    "numberOfOpening": 10
+  },
+  {
+    "companyId": "6783ac3ca139a23e420fd97f",
+    "title": "Technical Support Agent",
+    "description": "Provide technical assistance to customers and resolve IT-related issues.",
+    "idealFor": "IT enthusiasts with customer handling experience.",
+    "skills": ["Technical Support", "Communication", "Problem Solving"],
+    "jobRole": "Call Center Agent",
+    "numberOfOpening": 7
+  },
+  {
+    "companyId": "6783ac3ca139a23e420fd980",
+    "title": "Data Entry Specialist",
+    "description": "Enter and manage data efficiently in the company's database.",
+    "idealFor": "Fast typists with attention to detail.",
+    "skills": ["Data Entry", "Typing", "Accuracy", "Attention to Detail"],
+    "jobRole": "Data Entry Clerk",
+    "numberOfOpening": 8
+  },
+  {
+    "companyId": "6783ac3ca139a23e420fd980",
+    "title": "Data Analyst Assistant",
+    "description": "Assist the data analyst in preparing reports and managing data.",
+    "idealFor": "Entry-level individuals interested in data analysis.",
+    "skills": ["Data Entry", "MS Excel", "Analytical Thinking"],
+    "jobRole": "Data Entry Clerk",
+    "numberOfOpening": 4
+  },
+  {
+    "companyId": "6783ac3ca139a23e420fd981",
+    "title": "Creative Copywriter",
+    "description": "Develop creative content for marketing and advertising campaigns.",
+    "idealFor": "Creative writers with marketing knowledge.",
+    "skills": ["Copywriting", "Marketing", "Creativity"],
+    "jobRole": "Content Creation",
+    "numberOfOpening": 3
+  },
+  {
+    "companyId": "6783ac3ca139a23e420fd981",
+    "title": "Technical Content Writer",
+    "description": "Write detailed technical documentation and product manuals.",
+    "idealFor": "Writers with technical backgrounds.",
+    "skills": ["Technical Writing", "Research", "Documentation"],
+    "jobRole": "Content Writing",
+    "numberOfOpening": 2
+  },
+  {
+    "companyId": "6783ac3ca139a23e420fd986",
+    "title": "Language Tutor",
+    "description": "Teach spoken and written English to international students.",
+    "idealFor": "Qualified English language educators.",
+    "skills": ["English Proficiency", "Teaching", "Communication"],
+    "jobRole": "Online Educator",
+    "numberOfOpening": 6
+  },
+  {
+    "companyId": "6783ac3ca139a23e420fd986",
+    "title": "Coding Instructor",
+    "description": "Teach beginner coding to students via online sessions.",
+    "idealFor": "Programmers with teaching experience.",
+    "skills": ["Programming", "Teaching", "Communication"],
+    "jobRole": "Online Tutor",
+    "numberOfOpening": 5
+  },
+  {
+    "companyId": "6783ac3ca139a23e420fd983",
+    "title": "Customer Support Specialist",
+    "description": "Resolve customer issues and ensure a great customer experience.",
+    "idealFor": "Individuals with customer support experience.",
+    "skills": ["Customer Support", "Problem Solving", "Communication"],
+    "jobRole": "Call Center Agent",
+    "numberOfOpening": 7
+  },
+  {
+    "companyId": "6783ac3ca139a23e420fd983",
+    "title": "Sales Agent",
+    "description": "Handle inbound sales calls and assist customers with purchases.",
+    "idealFor": "Persuasive individuals with sales experience.",
+    "skills": ["Sales", "Negotiation", "Communication"],
+    "jobRole": "Call Center Agent",
+    "numberOfOpening": 5
+  },
+  {
+    "companyId": "6783ac3ca139a23e420fd984",
+    "title": "Data Entry Clerk",
+    "description": "Perform data entry tasks and ensure accuracy in records.",
+    "idealFor": "Detail-oriented individuals with fast typing skills.",
+    "skills": ["Typing", "Data Entry", "Accuracy"],
+    "jobRole": "Data Entry Clerk",
+    "numberOfOpening": 4
+  },
+  {
+    "companyId": "6783ac3ca139a23e420fd984",
+    "title": "Data Management Assistant",
+    "description": "Assist with organizing and managing the company's data.",
+    "idealFor": "Entry-level professionals with data handling skills.",
+    "skills": ["Data Management", "Attention to Detail", "MS Office"],
+    "jobRole": "Data Entry Clerk",
+    "numberOfOpening": 5
+  },
+  {
+    "companyId": "6783ac3ca139a23e420fd981",
+    "title": "Copy Editor",
+    "description": "Edit and polish marketing and advertising materials.",
+    "idealFor": "Editors with a marketing background.",
+    "skills": ["Copy Editing", "Marketing Knowledge", "Proofreading"],
+    "jobRole": "Content Editing",
+    "numberOfOpening": 2
+  },
+  {
+    "companyId": "6783ac3ca139a23e420fd981",
+    "title": "Content Strategist",
+    "description": "Plan and oversee content strategies for client projects.",
+    "idealFor": "Experienced content planners.",
+    "skills": ["Content Planning", "Strategy", "Client Management"],
+    "jobRole": "Content Strategy",
+    "numberOfOpening": 1
+  }
+]
